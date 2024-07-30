@@ -1,6 +1,7 @@
 # LST_2023
-![ee-chart](https://github.com/user-attachments/assets/17cdc002-e9b3-4d66-9f67-8d903d5ed6de)
+The Land Surface Temperature (LST) analysis for Kenya in 2023 utilizes data from the MODIS sensor, specifically the MOD11A2 (version 061) product. This dataset provides 8-day composite LST measurements at a 1-kilometer spatial resolution, derived from NASA's Terra satellite. The graph displays the "LST_Day_1km" band, showing temperatures in Celsius, converted from the original Kelvin measurements. The temporal resolution of multiple data points per month aligns with the 8-day composite nature of MOD11A2, offering a balance between detailed temporal coverage and minimizing cloud interference. This MODIS product undergoes rigorous quality control, evident in the smooth time series without significant anomalies. While providing high-quality, free data ideal for climate and environmental studies, it's important to note that LST differs from air temperature and can be influenced by land cover types. The dataset's 1km resolution and 8-day composites make it well-suited for country-level analysis, capturing seasonal variations effectively. However, potential limitations include cloud cover effects, particularly during rainy seasons. The graph's smooth appearance suggests some form of averaging or processing to represent Kenya's entire area, providing a comprehensive view of the country's land surface thermal patterns throughout 2023.
 
+![ee-chart](https://github.com/user-attachments/assets/17cdc002-e9b3-4d66-9f67-8d903d5ed6de)
 
 Based on the Land Surface Temperature (LST) time series graph for Kenya in 2023, we can analyze the following key points:
 
